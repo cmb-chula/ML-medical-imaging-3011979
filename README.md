@@ -7,6 +7,8 @@ The slides and problem sets are all in English.
 
 Recorded lecture videos are hosted on Echo360.
 
+# Note: The datasets are still being anonymized. Please check back later.
+
 ## What can you find here?
 1. Lecture slides in PDF format
 2. Compiled list of URLs for recorded videos (See below)
@@ -63,7 +65,3 @@ Recorded lecture videos are hosted on Echo360.
 [Lecture 14](https://echo360.net.au/media/f05c8831-cdbb-4efc-b8bf-a0dcf6221807/public): Practical deep learning on Google Colab (Spring 2022)
 
 [Lecture 15](https://echo360.net.au/media/1663fd22-f2aa-4238-94b9-5df70362cb17/public): Attention and transformer (Spring 2021)
-
-## Problem Sets
-
-Problem sets are provided [above]().
