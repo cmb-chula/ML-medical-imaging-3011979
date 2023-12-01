@@ -7,14 +7,13 @@ The slides and problem sets are all in English.
 
 Recorded lecture videos are hosted on Echo360.
 
-# Note: The datasets are still being anonymized. Please check back later.
+**Note**: The datasets are still being anonymized. Please check back later.
 
 ## What can you find here?
 1. Lecture slides in PDF format
 2. Compiled list of URLs for recorded videos (See below)
-3. Problem sets and other assignments
-4. Data and scripts for in-class demos
-5. Python notebooks for the programming sessions
+3. Data and scripts for in-class demos
+4. Python notebooks for the programming sessions
 
 ## Video links
 ### Module 1: Basic Python Programming & Statistics
