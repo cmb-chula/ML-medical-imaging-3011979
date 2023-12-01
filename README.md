@@ -1,19 +1,16 @@
 # Welcome to ML-medical-imaging-3011979
 This is the repository for the learning materials from the **3011979: Machine Learning for Medical Imaging** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
-Current contents are combined from Spring 2021 and Spring 2022. Lectures from Spring 2021 contents are more theoretical while lectures from Spring 2022 focus more on the practical side.
+Lectures were taught in Thai but the slides are in English.
 
-The slides and problem sets are all in English.
+Contents were combined from Spring 2021 and Spring 2022 versions of the course, with the Spring 2021 version being slightly more theoretical and more time was spent on deep learning architecture. On the other hand, the Spring 2022 version provides more practical advices.
 
-Recorded lecture videos are hosted on Echo360.
-
-**Note**: The datasets are still being anonymized. Please check back later.
+Large data files are provided on [FigShare](https://figshare.com/articles/dataset/Large_data_files_for_3011979_Python_demo/24710238)
 
 ## What can you find here?
 1. Lecture slides in PDF format
 2. Compiled list of URLs for recorded videos (See below)
-3. Data and scripts for in-class demos
-4. Python notebooks for the programming sessions
+3. Python notebooks and data files for the programming sessions
 
 ## Video links
 ### Module 1: Basic Python Programming & Statistics
