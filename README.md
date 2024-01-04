@@ -1,3 +1,5 @@
+# Important! Due to technical issue at the university, all links to videos will be down until further notice :(
+
 # Welcome to ML-medical-imaging-3011979
 This is the repository for the learning materials from the **3011979: Machine Learning for Medical Imaging** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
