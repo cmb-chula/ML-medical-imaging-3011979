@@ -1,5 +1,3 @@
-# Important! Due to technical issue at the university, all links to videos will be down until further notice :(
-
 # Welcome to ML-medical-imaging-3011979
 This is the repository for the learning materials from the **3011979: Machine Learning for Medical Imaging** course taught by our group at the Faculty of Medicine, Chulalongkorn University in Bangkok, Thailand.
 
@@ -15,6 +13,8 @@ Large data files are provided on [FigShare](https://figshare.com/articles/datase
 3. Python notebooks and data files for the programming sessions
 
 ## Video links
+Here is the full [Youtube playlist](https://www.youtube.com/playlist?list=PLJIJClalm2xOeZDP25Q3Zj9UjjCiolLtd)
+
 ### Module 1: Basic Python Programming & Statistics
 [Lecture 1](https://youtu.be/1mmhx5VSG6I): Python for data exploration and visualization I (Spring 2022)
 
@@ -48,16 +48,16 @@ Large data files are provided on [FigShare](https://figshare.com/articles/datase
 
 ### Module 5: Deep Learning
 
-[Lecture 11.1](): Deep learning I: Multi-layer perceptron (Spring 2021)
+[Lecture 11.1](https://youtu.be/Qq7JGGIkOoM): Deep learning I: Multi-layer perceptron (Spring 2021)
 
-[Lecture 11.2](): Deep learning II: Convolutional neural network architectures (Spring 2021)
+[Lecture 11.2](https://youtu.be/A36P0MzFHI0): Deep learning II: Convolutional neural network architectures (Spring 2021)
 
-[Lecture 11.3](): Deep learning III: Transfer learning, augmentation, and image segmentation (Spring 2021)
+[Lecture 11.3](https://youtu.be/79m8vREUczE): Deep learning III: Transfer learning, augmentation, and image segmentation (Spring 2021)
 
-[Lecture 12](): Medical imaging applications (Spring 2021)
+[Lecture 12](https://youtu.be/pUqaleviNGo): Medical imaging applications (Spring 2021)
 
-[Lecture 13](): Recurrent neural network architectures (Spring 2021)
+[Lecture 13](https://youtu.be/rAiDrsI9YrA): Recurrent neural network architectures (Spring 2021)
 
 [Lecture 14](https://youtu.be/VSO4h7L6QPQ): Practical deep learning on Google Colab (Spring 2022)
 
-[Lecture 15](): Attention and transformer (Spring 2021)
+[Lecture 15](https://youtu.be/W370AAN_84g): Attention and transformer (Spring 2021)
